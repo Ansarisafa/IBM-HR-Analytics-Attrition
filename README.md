@@ -16,7 +16,7 @@ To identify the key factors contributing to employee attrition using exploratory
 - **Google Colab**  
 - **Pandas, NumPy, Matplotlib, Seaborn**  
 - **Scikit-learn (DecisionTreeClassifier)**  
-- **PowerPoint (for report generation)**
+- **PowerPoint ,Canva(for report generation)**
 
 ---
 
@@ -59,8 +59,4 @@ Key visual insights:
 - OverTime is one of the most significant drivers of attrition.
 - Employees with low job involvement and satisfaction are more likely to leave.
 - Clear visualization helped in understanding the patterns affecting employee behavior.
-
----
-
-## 📄 Project Structure
 
